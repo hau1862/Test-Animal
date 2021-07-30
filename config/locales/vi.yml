@@ -40,4 +40,22 @@ vi:
       small_intro: "Tìm việc, cơ hội nghề nghiệp dễ dàng"
       browse_job_by: "Tìm việc bằng:"
       filter: "Bộ lọc"
-
+  accounts:
+    create:
+      success: "Your account has been created"
+      failure: "Create account fail"
+      invalid_role: "Invalid account role"
+  companies:
+  users:
+  sessions:
+    login:
+      success: "Log in successfully"
+      failure: "Log in fail"
+  jobs:
+    not_found: "Job not found"
+    create:
+      success: "Job has been created"
+      failure: "Create job fail"
+    update:
+      success: "Job has been updated"
+      failure: "Update job fail"

@@ -40,3 +40,22 @@ en:
       small_intro: "Find Jobs, Employment & Career Opportunities"
       browse_job_by: "Browse job offers by"
       filter: "Filter"
+  accounts:
+    create:
+      success: "Your account has been created"
+      failure: "Create account fail"
+      invalid_role: "Invalid account role"
+  companies:
+  users:
+  sessions:
+    login:
+      success: "Log in successfully"
+      failure: "Log in fail"
+  jobs:
+    not_found: "Job not found"
+    create:
+      success: "Job has been created"
+      failure: "Create job fail"
+    update:
+      success: "Job has been updated"
+      failure: "Update job fail"
